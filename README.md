@@ -4,7 +4,7 @@
 
 To design and implement a **Water Level Indicator using STM32 Nucleo-L031K6** that measures the water level using an analog input and displays the water level as **LOW, MEDIUM, or HIGH** on the Wokwi Serial Monitor.
 
----
+--
 
 ## Components Required
 
